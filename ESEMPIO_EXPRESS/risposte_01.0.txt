@@ -1,0 +1,10 @@
+1) il comando npm init serve a inizializzare il progetto e creare il file package.json
+2) è il file dalla quale node si avvierà
+3) è un file dove sono scritte tutte le caratteristiche del progetto
+4) mostra tutti i pachetti utilizzati dal progetto
+5) serve ad importare un pachetto all'interno del file
+6) è il metodo utilizzato per rispondere ad una get da parte del client
+7) serve ad avviare il server su una determinata porta
+8) servono 2 parametri, il percorso e la funzione
+9) serve a mandare la risposta
+10) è un metodo serve ad inviare la risposta al client
