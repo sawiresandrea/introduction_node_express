@@ -1,0 +1,3 @@
+1) a inviare file
+2) no perché bisogna mettere tutto il percorso
+3) il primo parametro è il percorso url
